@@ -1,0 +1,7 @@
+# 특정 디렉토리 내부의 모든 파일을 무시
+public/
+.github/
+.next/
+.vscode/
+.yarn/
+node_modules/
